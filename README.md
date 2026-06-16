@@ -259,4 +259,5 @@ http://localhost/sistema-produtos
 ## Autor
 - Jullia K De Paula
 - julliakarolinadev@gmail.com
+
 Projeto desenvolvido para fins acadêmicos demonstrando operações CRUD utilizando PHP e MySQL.
